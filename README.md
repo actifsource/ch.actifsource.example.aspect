@@ -1,18 +1,13 @@
-# Codesnippet Model
-In this project we will show how to set up the codesnippet model.  
-Show actifsource user manual [Code Snippet](https://www.actifsource.com/_downloads/ActifsourceManual_ActifsourceUserManual.pdf).
+# Own Metamodel Aspects 
+In this example project you will learn to define your own metamodel aspects 
 
-![Codesnippet Model](images/codesnippetmodel.png)
+![Codesnippet Model](images/aspectdefinition.png)
 
-![Codesnippet Code](images/codesnippetcode.png)
+![Codesnippet Code](images/aspectuse.png)
 
-## Model Snippet Built-In
-Define the model snippet built-in
-
-![Model Snippet Built-In](images/codesnippetbuiltin.png)
 
 ## Requirements
-Actifsource Workbench Enterprise Edition
+Actifsource Workbench Community Edition
 
 ## License
 [http://www.actifsource.com/company/license](http://www.actifsource.com/company/license)
