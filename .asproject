@@ -9,9 +9,13 @@
     <builtin>modelsnippet</builtin>
   </resourcepaths>
   <templatepaths />
-  <targetpaths />
   <ignoreWhitespaceAtLineEnd>false</ignoreWhitespaceAtLineEnd>
   <executeSaveActions>false</executeSaveActions>
   <generateJavaModel>true</generateJavaModel>
+  <targetpaths>
+    <targetpath>
+      <path>code</path>
+    </targetpath>
+  </targetpaths>
 </projectSettings>
 

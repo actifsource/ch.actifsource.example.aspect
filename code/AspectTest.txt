@@ -1,0 +1,6 @@
+
+InstanceA [4c11c80a-daea-11ee-97c3-13c50e3e283f]
+  OwnTextAspect: InstanceA_TextSelectorAspect
+  OwnResourcesAspect: 4c11c80a-daea-11ee-97c3-13c50e3e283f,  c9362d6a-dae9-11ee-97c3-13c50e3e283f
+  OwnLiteralAspect: InstanceA, ownText
+// Actifsource ID=[e5e4fb42-daec-11ee-97c3-13c50e3e283f,a6d1b8c9-cedd-11de-80c2-87ac3b08f930,41RVjOles5K5qdYtbTC2LABbK9E=]

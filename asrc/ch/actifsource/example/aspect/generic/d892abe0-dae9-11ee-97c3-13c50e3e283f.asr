@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="d892abe0-dae9-11ee-97c3-13c50e3e283f">
+  <owns predicate="45f698af-2e4a-11de-8579-f36aa50a3c42">
+    <resource statement-guid="1597185f-daea-11ee-97c3-13c50e3e283f" type="resource" guid="1596a32b-daea-11ee-97c3-13c50e3e283f" />
+    <resource statement-guid="1f6af6e9-daea-11ee-97c3-13c50e3e283f" type="resource" guid="1f6aa8c5-daea-11ee-97c3-13c50e3e283f" />
+    <resource statement-guid="547c8a02-daf3-11ee-a20e-15e57f242540" type="resource" guid="547b9f9e-daf3-11ee-a20e-15e57f242540" />
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="d892abe2-dae9-11ee-97c3-13c50e3e283f" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="dabb5852-dae9-11ee-97c3-13c50e3e283f" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="d8934823-dae9-11ee-97c3-13c50e3e283f" type="literal">MetaClassA</object>
+  </predicate>
+  <predicate guid="45f698af-2e4a-11de-8579-f36aa50a3c42">
+    <object statement-guid="1597185f-daea-11ee-97c3-13c50e3e283f">
+      <resource guid="1596a32b-daea-11ee-97c3-13c50e3e283f">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="1596ca3d-daea-11ee-97c3-13c50e3e283f" type="resource" guid="f016b6e0-b471-11e1-8107-93c930a749c9" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="29ef39b6-daea-11ee-97c3-13c50e3e283f" type="literal">OwnTextSelectorAspect</object>
+        </predicate>
+        <predicate guid="bdf1ed37-2e7a-11de-b129-e5e996f54b06">
+          <object statement-guid="02e5fa62-daeb-11ee-97c3-13c50e3e283f" type="literal">true</object>
+        </predicate>
+        <predicate guid="fea6c490-94ce-11df-8a10-29fd43bc5634">
+          <object statement-guid="fe9a46f1-daea-11ee-97c3-13c50e3e283f" type="literal">ch.actifsource.example.aspect.text.IOwnTextSelectorAspect</object>
+        </predicate>
+        <predicate guid="f016b6e1-b471-11e1-8107-93c930a749c9">
+          <object statement-guid="0c22f013-daeb-11ee-97c3-13c50e3e283f" type="literal">ch.actifsource.example.aspect.text.OwnTextSelectorAspectImpl</object>
+        </predicate>
+        <predicate guid="bb775c43-bdee-11eb-9055-618b664e9a62">
+          <object statement-guid="1596f14e-daea-11ee-97c3-13c50e3e283f" type="literal">true</object>
+        </predicate>
+      </resource>
+    </object>
+    <object statement-guid="1f6af6e9-daea-11ee-97c3-13c50e3e283f">
+      <resource guid="1f6aa8c5-daea-11ee-97c3-13c50e3e283f">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="1f6aa8c7-daea-11ee-97c3-13c50e3e283f" type="resource" guid="a4465b4a-0a5b-11df-9994-97971ff65706" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="371f3b88-daea-11ee-97c3-13c50e3e283f" type="literal">OwnResourceSelectorAspect</object>
+        </predicate>
+        <predicate guid="bdf1ed37-2e7a-11de-b129-e5e996f54b06">
+          <object statement-guid="a1d4036b-daeb-11ee-97c3-13c50e3e283f" type="literal">true</object>
+        </predicate>
+        <predicate guid="a7456a88-0a5b-11df-9994-97971ff65706">
+          <object statement-guid="995f66ca-daeb-11ee-97c3-13c50e3e283f" type="literal">ch.actifsource.example.aspect.resource.OwnResourceSelectorAspectImpl</object>
+        </predicate>
+        <predicate guid="fea6c490-94ce-11df-8a10-29fd43bc5634">
+          <object statement-guid="88bbe916-daeb-11ee-97c3-13c50e3e283f" type="literal">ch.actifsource.example.aspect.resource.IOwnResourceSelectorAspect</object>
+        </predicate>
+        <predicate guid="bb775c43-bdee-11eb-9055-618b664e9a62">
+          <object statement-guid="1f6acfd8-daea-11ee-97c3-13c50e3e283f" type="literal">true</object>
+        </predicate>
+      </resource>
+    </object>
+    <object statement-guid="547c8a02-daf3-11ee-a20e-15e57f242540">
+      <resource guid="547b9f9e-daf3-11ee-a20e-15e57f242540">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="547bedc0-daf3-11ee-a20e-15e57f242540" type="resource" guid="cc2ba326-b7d9-11eb-ad4c-136bcaf5493b" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="56373256-daf3-11ee-a20e-15e57f242540" type="literal">OwnLiteralSelectorAspect</object>
+        </predicate>
+        <predicate guid="bdf1ed37-2e7a-11de-b129-e5e996f54b06">
+          <object statement-guid="5fe4eb38-daf3-11ee-a20e-15e57f242540" type="literal">true</object>
+        </predicate>
+        <predicate guid="fea6c490-94ce-11df-8a10-29fd43bc5634">
+          <object statement-guid="5f6c38c7-daf3-11ee-a20e-15e57f242540" type="literal">ch.actifsource.example.aspect.literal.IOwnLiteralSelectorAspect</object>
+        </predicate>
+        <predicate guid="cc2ba327-b7d9-11eb-ad4c-136bcaf5493b">
+          <object statement-guid="60b95239-daf3-11ee-a20e-15e57f242540" type="literal">ch.actifsource.example.aspect.literal.OwnLiteralSelectorAspectImpl</object>
+        </predicate>
+        <predicate guid="bb775c43-bdee-11eb-9055-618b664e9a62">
+          <object statement-guid="547c3be1-daf3-11ee-a20e-15e57f242540" type="literal">false</object>
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+</resource>
+

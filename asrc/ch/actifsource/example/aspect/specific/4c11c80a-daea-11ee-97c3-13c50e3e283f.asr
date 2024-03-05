@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="4c11c80a-daea-11ee-97c3-13c50e3e283f">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="4c11ef1c-daea-11ee-97c3-13c50e3e283f" type="resource" guid="c9362d6a-dae9-11ee-97c3-13c50e3e283f" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="4c12644d-daea-11ee-97c3-13c50e3e283f" type="literal">InstanceA</object>
+  </predicate>
+</resource>
+
